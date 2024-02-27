@@ -1,5 +1,6 @@
 "use strict"
 
+
 // Hämta in meny-knapparna
 let openBtn = document.getElementById("open-menu");
 let closeBtn = document.getElementById("close-menu");
