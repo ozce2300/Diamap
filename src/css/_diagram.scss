@@ -1,15 +1,12 @@
-#myChart {
-margin: 50px auto;
-  
-}
+@use "base";
 
-
-
-
-#myChart-second {
-    margin: 50px auto;
+#div-dia {
     width: 100%;
-    max-width: 500px;
-    height: auto;
+    margin: 0 auto;
 }
 
+h1 {
+    font-family: base.$primary-font;
+    text-align: center;
+    color: base.$primary-pink;;
+}
